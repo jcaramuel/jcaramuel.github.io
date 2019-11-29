@@ -11,8 +11,7 @@ Hace algunos años inicié la tarea de estudiar los 4 primeros volúmenes the [T
 <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Auroux-Retrato_de_Juan_Caramuel_de_Lobkowitz.jpg" />
   <figcaption>
-    Ilustración de Ioannis Caramuel Theologiae Moralis Fundamentalis. Lugduni, 1675
-	Retrato de Juan Caramuel Lobkowitz. Ilustración de Ioannis Caramuel Theologiae Moralis Fundamentalis. Lugduni, 1675.<a href="http://bdh.bne.es/bnesearch/detalle/bdh0000037040">Biblioteca Nacional de España</a>.
+    Retrato de Juan Caramuel Lobkowitz. Ilustración de Ioannis Caramuel Theologiae Moralis Fundamentalis. Lugduni, 1675.<a href="http://bdh.bne.es/bnesearch/detalle/bdh0000037040">Biblioteca Nacional de España</a>.
   </figcaption>
 </figure>
 
@@ -20,5 +19,5 @@ Adelantándose 30 años a Leibniz, Juan Caramuel definió -aunque no desarrolló
 
 Cuando decidí crear un sitio en el que poder escribir sobre los temas que me interesan, ví más que necesario hacer un pequeño homenaje a la figura de Juan Caramuel y a su aportación, en cierto modo seminal, al mundo de la informática.
 
-# Contacto
+## Contacto
 <j.caramuel.lob@gmail.com>
