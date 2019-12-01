@@ -18,6 +18,3 @@ Hace algunos años inicié la tarea de estudiar los 4 primeros volúmenes the [T
 Adelantándose 30 años a Leibniz, Juan Caramuel definió -aunque no desarrolló- las bases del sistema binario, entre otras. Además, destacó las ventajas de cambiar de base para resolver algunos problemas con más faclilidad. Buceando un poco, encontré el libro [History of Binary and Other Non Decimal Numeration](http://www.eipiphiny.org/books/history-of-binary.pdf), que aporta más información y hace mención al trabajo de Caramuel en varias ocasiones.
 
 Cuando decidí crear un sitio en el que poder escribir sobre los temas que me interesan, ví más que necesario hacer un pequeño homenaje a la figura de Juan Caramuel y a su aportación, en cierto modo seminal, al mundo de la informática.
-
-## Contacto
-<j.caramuel.lob@gmail.com>
