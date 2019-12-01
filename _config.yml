@@ -23,6 +23,9 @@ icon: /assets/images/icon-512.png
 twitter_username: jcaramuel
 github_username:  jcaramuel
 
+lang:  es
+permalink: /:title:output_ext
+
 # Build settings
 markdown: kramdown
 

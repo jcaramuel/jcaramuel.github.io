@@ -13,7 +13,14 @@
       {% endif %}
     </div>
     <span class="post-date">
-      {{ post.date | date: "%b %-d, '%y" }}
+{% capture i18n_date %}
+{{ page.date | date: "%-d" }} de
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{{ site.data.es.months_short[m] }} de
+{{ page.date | date: "%Y" }}
+{% endcapture %}
+	
+      {{ i18n_date }}
     </span>
   </a>
 </li>
