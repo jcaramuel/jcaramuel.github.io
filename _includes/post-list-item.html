@@ -16,7 +16,7 @@
 {% capture i18n_date %}
 {{ post.date | date: "%-d" }} de
 {% assign m = post.date | date: "%-m" | minus: 1 %}
-{{ site.data.es.months_short[m] }} de
+{{ site.data.es.months[m] }} de
 {{ post.date | date: "%Y" }}
 {% endcapture %}
 	
