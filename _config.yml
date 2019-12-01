@@ -16,7 +16,7 @@
 title: J. Caramuel
 email: j.caramuel.lob@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Reflexiones sobre informática en español.
+  Sobre programación en español.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jcaramuel.es" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
