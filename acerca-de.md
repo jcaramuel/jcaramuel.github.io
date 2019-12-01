@@ -11,7 +11,7 @@ Hace algunos años inicié la tarea de estudiar los 4 primeros volúmenes the [T
 <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Auroux-Retrato_de_Juan_Caramuel_de_Lobkowitz.jpg" />
   <figcaption>
-    Retrato de Juan Caramuel Lobkowitz. Ilustración de Ioannis Caramuel Theologiae Moralis Fundamentalis. Lugduni, 1675.<a href="http://bdh.bne.es/bnesearch/detalle/bdh0000037040">Biblioteca Nacional de España</a>.
+    Retrato de Juan Caramuel Lobkowitz. Lugduni, 1675.<a href="http://bdh.bne.es/bnesearch/detalle/bdh0000037040">Biblioteca Nacional de España</a>.
   </figcaption>
 </figure>
 
